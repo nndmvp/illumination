@@ -180,7 +180,6 @@ for filename in os.listdir(input_dir):
 
 #         # 指定保存文件的路径和文件名
 #         output_filename = os.path.join(output_dir, filename)
-
 #         # 保存图像到文件
 #         img_final.save(output_filename)
 print("处理完成，所有直方图矩阵已保存至指定位置。")
